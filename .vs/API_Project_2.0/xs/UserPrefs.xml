@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{1F8B63BF-ADD9-4CA2-8553-9E60FED12F5B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="API_Project_2.0/Controllers/FriendController.cs">
+    <Files>
+      <File FileName="API_Project_2.0/Program.cs" Line="25" Column="6" />
+      <File FileName="API_Project_2.0/Startup.cs" Line="1" Column="1" />
+      <File FileName="API_Project_2.0/WeatherForecast.cs" Line="13" Column="44" />
+      <File FileName="API_Project_2.0/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="API_Project_2.0/Models/Friends.cs" Line="18" Column="38" />
+      <File FileName="API_Project_2.0/Controllers/FriendController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="API_Project_2.0" expanded="True">
+            <Node name="API_Project_2.0" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="WeatherForecastController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.API__Project__2.0 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
