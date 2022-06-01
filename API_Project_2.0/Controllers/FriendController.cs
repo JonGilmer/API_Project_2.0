@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using API_Project_2._0.Models;
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -11,11 +12,19 @@ namespace API_Project_2._0.Controllers
     [Route("api/[controller]")]
     public class FriendController : Controller
     {
+        List<Friend> friendsList = new List<Friend>
+        {
+            new Friend(1, "Daniel", "Wadkins", "Florida", DateTime.Today),
+            new Friend(2, "Rodrigo", "Retana", "Ohio", DateTime.Today),
+            new Friend(3, "John Peyton", "Feathers", "Texas", DateTime.Today),
+            new Friend(4, "Garrett", "Arnold", "Georgia", DateTime.Today)
+        };
+
         // GET: api/values
         [HttpGet]
-        public IEnumerable<string> Get()
+        public IEnumerable<Friend> Get()
         {
-            return new string[] { "value1", "value2" };
+            return friendsList;
         }
 
         // GET api/values/5

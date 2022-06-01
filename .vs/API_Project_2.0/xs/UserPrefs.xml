@@ -1,12 +1,9 @@
 ﻿<Properties StartupConfiguration="{1F8B63BF-ADD9-4CA2-8553-9E60FED12F5B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="API_Project_2.0/Controllers/FriendController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="API_Project_2.0/Properties/launchSettings.json">
     <Files>
-      <File FileName="API_Project_2.0/Program.cs" Line="25" Column="6" />
-      <File FileName="API_Project_2.0/Startup.cs" Line="1" Column="1" />
-      <File FileName="API_Project_2.0/WeatherForecast.cs" Line="13" Column="44" />
-      <File FileName="API_Project_2.0/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
-      <File FileName="API_Project_2.0/Models/Friends.cs" Line="18" Column="38" />
-      <File FileName="API_Project_2.0/Controllers/FriendController.cs" Line="1" Column="1" />
+      <File FileName="API_Project_2.0/Models/Friends.cs" Line="1" Column="14" />
+      <File FileName="API_Project_2.0/Controllers/FriendController.cs" Line="8" Column="73" />
+      <File FileName="API_Project_2.0/Properties/launchSettings.json" Line="12" Column="21" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,9 +11,10 @@
           <Node name="API_Project_2.0" expanded="True">
             <Node name="API_Project_2.0" expanded="True">
               <Node name="Controllers" expanded="True">
-                <Node name="WeatherForecastController.cs" selected="True" />
+                <Node name="FriendController.cs" selected="True" />
               </Node>
               <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
             </Node>
           </Node>
         </State>
